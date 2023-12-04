@@ -1,4 +1,4 @@
-# numerical-analysis-project
+# Numerical Analysis Project
 
 This is a Python project which was created as part of "Numerical Analysis" course in Ben Gurion University.
 
